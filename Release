@@ -1,0 +1,8 @@
+Origin: WesleySt0re
+Label: WesleySt0re
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: One of the best repositories for Cydia. It's Wesley's St0re
