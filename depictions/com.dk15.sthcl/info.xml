@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>zeppelin</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Shadow the Hedgehog Carrier logo for Zepellin</description>
