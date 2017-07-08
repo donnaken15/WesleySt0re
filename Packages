@@ -1,0 +1,27 @@
+Package: com.dk15.sthcl
+Version: 0
+Section: Carrier Logos
+Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dk15.sthcl_0_iphoneos-arm.deb
+Size: 12288
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Shadow the Hedgehog Carrier Logo for Zeppelin
+Name: Shadow Carrier Logo
+Author: donnaken15 <myminecraftfriend15@yahoo.com>
+Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.sthcl
+
+Package: com.dk15.greenscreen
+Version: 0
+Section: Toys
+Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
+Depends: firmware(>7.0),mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dk15.greenscreen_0_iphoneos-arm.deb
+Size: 4517602
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Used for green screens.
+Name: Green Screen
+Author: donnaken15 <myminecraftfriend15@yahoo.com>
+Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.greenscreen
