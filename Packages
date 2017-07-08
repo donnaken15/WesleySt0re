@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dk15.sthcl_0_iphoneos-arm.deb
 Size: 12288
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 62222280e28c7cc09bb1341dee3b52b8
 Description: Shadow the Hedgehog Carrier Logo for Zeppelin
 Name: Shadow Carrier Logo
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
@@ -20,7 +20,7 @@ Depends: firmware(>7.0),mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dk15.greenscreen_0_iphoneos-arm.deb
 Size: 4517602
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: dbba24fe7e7e52e695766d6c3da42ed8
 Description: Used for green screens.
 Name: Green Screen
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
