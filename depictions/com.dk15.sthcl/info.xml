@@ -1,7 +1,7 @@
 <package>
 	<id>com.dk15.sthcl</id>
 	<name>Shadow Carrier Logo</name>
-	<version>0-</version>
+	<version>0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
