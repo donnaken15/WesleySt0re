@@ -25,3 +25,17 @@ Description: Used for green screens.
 Name: Green Screen
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
 Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.greenscreen
+
+Package: com.dk15.trollcl
+Version: 0
+Section: Carrier Logos
+Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dk15.trollcl_0_iphoneos-arm.deb
+Size: 10686
+MD5sum: dbba24fe7e7e52e695766d6c3da42ed8
+Description: A bit low quality, but hopefully its not too bad.
+Name: Troll Face Carrier Logo
+Author: donnaken15 <myminecraftfriend15@yahoo.com>
+Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.trollcl
