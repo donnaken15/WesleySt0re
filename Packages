@@ -46,9 +46,9 @@ Section: Development
 Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dk15.mcsdk_1_0_iphoneos-arm.deb
-Size: 10686
-MD5sum: 26dd428efd476ca1538e7cdfb0e182aa
+Filename: ./debs/com.dk15.mcsdk_1.0_iphoneos-arm.deb
+Size: 11424566
+MD5sum: 2ab693865b36518acebb91c4f20b7704e
 Description: Currently doesn't work for me, but you can experiment with it if you want.
 Name: miniCode SDK
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
