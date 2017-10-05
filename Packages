@@ -40,7 +40,6 @@ Name: Troll Face Carrier Logo
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
 Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.trollcl
 
-<<<<<<< HEAD
 Package: com.dk15.delunitycache
 Version: 0
 Section: Debian Scripts
@@ -54,18 +53,3 @@ Description: (Un)install package to clear Unity cache in application data.
 Name: Clear Unity Cache
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
 Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.delunitycache
-=======
-Package: com.dk15.mcsdk
-Version: 1.0
-Section: Development
-Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.dk15.mcsdk_1.0_iphoneos-arm.deb
-Size: 11424566
-MD5sum: 2ab693865b36518acebb91c4f20b7704e
-Description: Currently doesn't work for me, but you can experiment with it if you want.
-Name: miniCode SDK
-Author: donnaken15 <myminecraftfriend15@yahoo.com>
-Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.mcsdk
->>>>>>> origin/master
