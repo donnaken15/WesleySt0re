@@ -1,0 +1,32 @@
+<package>
+	<id>com.dk15.delunitycache</id>
+	<name>Clear Unity Cache</name>
+	<version>0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>(Un)install package to clear the Unity cache in applicaton data.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No preview</description>
+			<image>preview.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>none</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>http://reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
