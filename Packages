@@ -48,7 +48,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dk15.delunitycache_0_iphoneos-arm.deb
 Size: 10686
-MD5sum: C4102E38C487492A55A017D4E6FD3357
+MD5sum: c4102e38c487492a55a017d4e6fd3357
 Description: (Un)install package to clear Unity cache in application data.
 Name: Clear Unity Cache
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
