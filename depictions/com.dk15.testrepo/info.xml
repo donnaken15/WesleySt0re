@@ -1,0 +1,32 @@
+<package>
+	<id>com.dk15.testrepo</id>
+	<name>TestRepo</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Useful for testing your own packages and webpages.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No preview</description>
+			<image>preview.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>none</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>http://reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

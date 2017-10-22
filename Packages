@@ -53,3 +53,17 @@ Description: (Un)install package to clear Unity cache in application data.
 Name: Clear Unity Cache
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
 Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.delunitycache
+
+Package: com.dk15.testrepo
+Version: 0
+Section: Utilities
+Maintainer: donnaken15 <myminecraftfriend15@yahoo.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dk15.testrepo_1.0_iphoneos-arm.deb
+Size: 16210
+MD5sum: 0a2a1fd49985fd2d3d6391dfe09ac996
+Description: Useful for testing your packages and webpages.
+Name: TestRepo
+Author: donnaken15 <myminecraftfriend15@yahoo.com>
+Depiction: https://donnaken15.github.io/WesleySt0re/depictions/?p=com.dk15.testrepo
