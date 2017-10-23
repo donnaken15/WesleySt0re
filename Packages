@@ -62,7 +62,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dk15.testrepo_1.0_iphoneos-arm.deb
 Size: 16210
-MD5sum: F65B1C25F9C15CEF1C0148D23A7FE84B
+MD5sum: f65b1c25f9c15cef1c0148d23a7fe84b
 Description: Useful for testing your packages and webpages.
 Name: TestRepo
 Author: donnaken15 <myminecraftfriend15@yahoo.com>
